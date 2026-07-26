@@ -1,0 +1,71 @@
+Phishing Analysis Fundamentals
+
+TASK 2
+
+Identify the domain used in the following email address:
+hatsalesman@tryhatme.com
+
+tryhatme.com
+
+TASK 3
+
+Which protocol is responsible for sending an email from a client to a mail server?
+SMTP
+
+Which service is used to look up the recipient domain’s mail server?
+DNS
+
+Bob wants to access his email from multiple devices, including his phone and laptop.
+Which protocol should he use?
+IMAP
+
+TASK 4
+
+What is the full subject line of email1.eml?
+Subject:Help protect your budget by protecting your home
+
+View the message source of email1.eml using Thunderbird in your VM.
+What the IP address listed as the X-Originating-Ip?
+43.255.56.161
+
+TASK 5
+
+Open up the email2.txt file to view the source of an attachment.
+What is the Content-Type of the attachment?
+application/pdf
+
+What is the name of the attachment from the previous question?
+zmqpalgh.pdf
+
+Decode the base64 string using either a PDF converter (opens in new tab) or CyberChef (opens in new tab).
+What is the hidden flag value?
+THM{BENIGN_PDF_ATTACHMENT}
+
+TASK 6
+
+Which reputable organization is being spoofed in this phishing attempt?
+Home Depot
+
+What is the sender's email address?
+support@teckbe.com
+
+Inspect the email message source.
+What is the defanged (opens in new tab) X-Originating-IP?
+103[.]234[.]236[.]83
+
+Continue analyzing the email message source.
+Which mail server generated the Authentication-Results header?
+atlas102.free.mail.gq1.yahoo.com
+
+
+
+
+
+
+
+
+
+
+
+
+
