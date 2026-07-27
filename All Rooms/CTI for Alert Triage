@@ -1,0 +1,41 @@
+CTI for Alert Triage
+
+TASK 2
+
+Reputation lookups can support you with a verdict.
+What does CTI add to make sense of the attack?
+Context
+
+What is the term for mapping activity to known threat actors or APT groups?
+Attribution
+
+TASK 3
+
+What anomalous user-agent did the Node.js malware use?
+python-requests/2.31.0
+
+Explore the public reports explaining the Miasma supply chain attack.
+Repositories of which company were compromised? (e.g., Oracle)
+Red Hat
+
+TASK 4
+
+According to the validity rules, what blocking applies to file hashes?
+Permanent
+
+You should never accept a report's claim without validation.
+Where should you find the evidence that confirms the claim?
+Your logs
+
+TASK 5
+
+Does internal intelligence outweigh external intelligence? (Yea/Nay)
+Yea
+
+When authoring an event, what should you be very clear and precise with?
+
+
+TASK 6
+
+What is the flag retrieved after completing the challenge?
+THM{cti_is_more_than_vt_lookup!}
