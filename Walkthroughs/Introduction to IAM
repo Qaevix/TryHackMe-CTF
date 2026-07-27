@@ -1,0 +1,42 @@
+Introduction to IAM
+
+TASK 2
+
+What is the name of the groups your user is part of (listed alphabetically)?
+AWS103, LabReadOnly
+
+TASK 3
+
+Which policy type is the most common?
+Identity-based
+
+What contextual information does AWS gather before evaluating a request (mnemonic reference order)?
+Principal,Action,Resource,Condition
+
+For a regular user, name one security best practice you should apply?
+MFA
+
+TASK 4
+
+In the first example above, which action allows the trylab user to retrieve objects from the thm-bucket?
+s3:GetObject
+
+In the second example above, when the user try-terminate-me requests an EC2 termination, what will be the result when evaluating the policy?
+Allow
+
+TASK 5
+
+What is the prefix of the bucket you found?
+try-log-me
+
+If you dig into the bucket, what flag do you find?
+THM{MY_SECRET_STASH}
+
+TASK 6
+
+What is the flag after finishing all three exercises?
+THM{POLP_IT_DOWN}
+
+
+
+
