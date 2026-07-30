@@ -4,7 +4,7 @@
 
 ### Cybersecurity notes, room answers and detailed CTF walkthroughs
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-l1nux-212c42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Qaevix)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Qaevix-212c42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Qaevix)
 [![GitHub](https://img.shields.io/badge/GitHub-Qaevix-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Qaevix)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Qaevix-7c3aed?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://qaevix.github.io)
 
@@ -167,7 +167,7 @@ I am not responsible for any misuse of the information contained in this reposit
 
 Cybersecurity and Computer Science student focused on penetration testing, web security, OSINT, incident response and digital forensics.
 
-* **TryHackMe:** [l1nux](https://tryhackme.com/p/Qaevix)
+* **TryHackMe:** [Qaevix](https://tryhackme.com/p/Qaevix)
 * **GitHub:** [Qaevix](https://github.com/Qaevix)
 * **Portfolio:** [qaevix.github.io](https://qaevix.github.io)
 
