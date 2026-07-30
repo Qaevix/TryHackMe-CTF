@@ -102,7 +102,7 @@ TryHackMe---Walkthroughs-Answers/
 │   ├── Hard/
 │   └── Insane/
 │
-├── assets/
+├── Assets/Images
 │   └── Images and supporting files
 │
 └── README.md
