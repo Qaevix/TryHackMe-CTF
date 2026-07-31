@@ -1,0 +1,34 @@
+Shared Responsibility Model
+
+Task 2
+
+Name one area that is your responsibility to secure in the case of a Lambda function?
+code
+
+TASK 3
+
+In relation to this incident, and in general, what IAM best practice should you always apply?
+least privilege
+
+TASK 4
+
+Instead of storing secrets in code, what AWS service should you use?
+Secrets Manager
+
+TASK 5
+
+What is a common misconfiguration often referred to as "Leaky bucket"?
+S3 Public Access
+
+TASK 6
+
+What is the flag revealed at the end of the game?
+THM{SHARED_RESPONSIBILITY_MASTER}
+
+
+
+
+
+
+
+
